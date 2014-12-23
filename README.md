@@ -4,11 +4,14 @@
 [Nunchucky]: https://www.adafruit.com/products/345
 [WiiChuck Adapter]: https://www.sparkfun.com/products/9281
 [Teensyduino]: http://www.pjrc.com/teensy/teensyduino.html
+[Youtube video]: https://www.youtube.com/watch?v=wR43tIJpoGE
 
 # WiiChuckMouse
 
 This code lets you use a Wii Nunchuck controller as a usb mouse by
 utilizing the [Teensy][] board's usb device emulation capabilities.
+
+Here's a [Youtube video][] of it in action.
 
 ### Hardware Requirements
 * A [Teensy][] board
