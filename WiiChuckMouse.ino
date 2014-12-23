@@ -14,8 +14,7 @@
 
 
    Created by Sean Hickey (Wisellama), 2014
-
-   Released into the Public Domain under the terms of the Unlicense.
+   Licensed under the GPLv3 (see LICENSE.txt)
  */
 
 #include <Wire.h>
